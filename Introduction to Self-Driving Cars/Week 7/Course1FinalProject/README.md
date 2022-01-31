@@ -15,3 +15,6 @@
 >   \> cd \Coursera\CarlaSimulator\PythonClient\Course1FinalProject
 
 >   \> python module_7.py
+
+## What the output should look like-
+https://www.instagram.com/reel/COvBTjJAGfi/?utm_source=ig_web_copy_link
